@@ -17,6 +17,7 @@ Kit de divulgação estático e sem dependências externas. Todo o conteúdo con
 - `assets/thiago-lourenco.png`: retrato tratado de Thiago Lourenço.
 - `assets/hugo-machado.png`: retrato tratado de Hugo Machado.
 - `assets/logo-ueg.png`: logotipo oficial da Universidade Estadual de Goiás.
+- `assets/logo-cemol-oficial.png`: logotipo oficial do CEMOL preparado com transparência para uso sobre fundos escuros.
 - `assets/logo-aima.png`: logotipo oficial da Aima Toxicologia.
 - `assets/logo-mestrado-ciencias-moleculares.png`: logotipo do Mestrado em Ciências Moleculares.
 - `assets/logo-protonaction.png`: logotipo da ProtonAction tratado para uso na seção final de parceiros.
