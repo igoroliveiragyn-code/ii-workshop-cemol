@@ -1071,6 +1071,11 @@ h1 em {
   background: transparent;
 }
 
+.partner-logo--qtea {
+  height: 54px;
+  padding: 5px 8px;
+}
+
 .partner-logo--ppgcm {
   height: 60px;
   padding: 5px 8px;
